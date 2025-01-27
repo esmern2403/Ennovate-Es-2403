@@ -170,3 +170,9 @@ Banner Part start
 /* =================
 Banner Part End 
 ===================== */
+
+.heading{
+    font-size: 70px;
+    background: red;
+    color: white;
+}
